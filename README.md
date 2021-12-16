@@ -2,7 +2,6 @@
 
 - Preview Video: https://youtu.be/YdPfdvGzDTY
 - [My Twitter](https://twitter.com/sangvaleap)
-- [My Instagram](https://www.instagram.com/sangvaleap.v/)
 
 - [My Patreon](https://www.patreon.com/sangvaleap)
 - [My Linkedin](https://www.linkedin.com/in/sangvaleap-vanny-353b25aa/)
@@ -11,6 +10,7 @@
 - My Email: sangvaleap.vanny@gmail.com
 - UI/UX source: Behance
 
+=> To access complete source code, please join [My Patreon](https://www.patreon.com/sangvaleap)
 
 <img width="600" alt="Screen Shot 2021-12-16 at 4 06 46 PM" src="https://user-images.githubusercontent.com/86506519/146341841-d731acdf-2e55-4a68-9571-c744deb7edcd.png">
 <img width="600" alt="Screen Shot 2021-12-16 at 4 07 28 PM" src="https://user-images.githubusercontent.com/86506519/146341878-df8dea99-828c-4e91-9495-e958c0449061.png">
